@@ -1,5 +1,5 @@
 # Hii, my name is Pol 👋
-### Im a [<img src="https://www.cevbarcelona.com/wp-content/uploads/2018/08/favicon.png" width=48>](https://www.cevbarcelona.com/) Student.
+### Im a [<img src="https://www.cevbarcelona.com/wp-content/uploads/2018/08/favicon.png" width=48>](https://www.cevbarcelona.com/) Student. I specialize on VFX and modeling 3D.
 
 ![Uploading image.png…](https://cdnb.artstation.com/p/assets/images/images/050/431/177/large/pol-perez-1a-polperez-final-002.jpg?1654819360)
 
