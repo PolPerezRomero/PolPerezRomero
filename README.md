@@ -1,12 +1,11 @@
 # Hii, my name is Pol 👋
-### Im a CEV Student [<img src="https://www.cevbarcelona.com/wp-content/uploads/2018/08/favicon.png" width=48>](https://www.cevbarcelona.com/)
+### Im a [<img src="https://www.cevbarcelona.com/wp-content/uploads/2018/08/favicon.png" width=48>](https://www.cevbarcelona.com/) Student.
 
 ![Uploading image.png…](https://cdnb.artstation.com/p/assets/images/images/050/431/177/large/pol-perez-1a-polperez-final-002.jpg?1654819360)
 
-[![Twitch Status](https://img.shields.io/twitch/status/Koocachookies?style=social)](https://twitch.com/koocachookies)
-[![Twitter Follow](https://img.shields.io/twitter/follow/Koocachookies?style=social)](https://twitter.com/koocachookies)
-![GitHub Followers](https://img.shields.io/github/followers/danigomezcev?style=social)
-![GitHub Followers](https://img.shields.io/github/stars/danigomezcev?style=social)
+[![Twitch Status](https://img.shields.io/twitch/status/pol018_cat?style=social)](https://twitch.com/pol018_cat)
+[![Twitter Follow](https://img.shields.io/twitter/follow/MayBStudios?style=social)](https://twitter.com/MayBStudios)
+
 
 ## Here are some of softwares that I learn:
 
@@ -52,8 +51,8 @@
 	</a>
 	</td>
 	<td>
-	<a href="https://kineticgames.co.uk/">
-  		<img src="https://raw.githubusercontent.com/danigomezcev/danigomezcev/main/games/phasmophobia.png">
+	<a href="https://genshin.hoyoverse.com/">
+  		<img src="https://wallpapercave.com/wp/wp7487062.jpg">
 	</a>
   </tr>
 </table>
