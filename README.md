@@ -1,6 +1,6 @@
 # Hii, my name is Pol 👋
 ### Im a [<img src="https://www.cevbarcelona.com/wp-content/uploads/2018/08/favicon.png" width=48>](https://www.cevbarcelona.com/) Student. I specialize on VFX and modeling 3D.
-I'm a VFX and 3D modeler
+I'm a VFX and 3D modeler who loves video games.
 <br>
 <hr>
 <a href="https://www.artstation.com/pol_perez">
