@@ -1,7 +1,10 @@
 # Hii, my name is Pol 👋
 ### Im a [<img src="https://www.cevbarcelona.com/wp-content/uploads/2018/08/favicon.png" width=48>](https://www.cevbarcelona.com/) Student. I specialize on VFX and modeling 3D.
+I'm a VFX and 3D modeler
+<a href="https://www.artstation.com/pol_perez">
+  		<img src="https://cdnb.artstation.com/p/assets/images/images/050/431/177/large/pol-perez-1a-polperez-final-002.jpg?1654819360">
 
-![Uploading image.png…](https://cdnb.artstation.com/p/assets/images/images/050/431/177/large/pol-perez-1a-polperez-final-002.jpg?1654819360)
+
 
 [![Twitch Status](https://img.shields.io/twitch/status/pol018_cat?style=social)](https://twitch.com/pol018_cat)
 [![Twitter Follow](https://img.shields.io/twitter/follow/MayBStudios?style=social)](https://twitter.com/MayBStudios)
@@ -15,6 +18,14 @@
 <br>
 [![Premiere](https://img.shields.io/badge/Adobe_Premiere-7F7AC9?style=for-the-badge&logo=adobepremierepro&logoColor=white&labelColor=262076)]()
 <br>
+[![Photoshop](https://img.shields.io/badge/Photoshop-2D9BEC?style=for-the-badge&logo=adobephotoshop&logoColor=white&labelColor=1E7ABF)]()
+<br>
+[![ArtStation](https://img.shields.io/badge/ArtStation-2E6FAF?style=for-the-badge&logo=ArtStation&logoColor=white&labelColor=13AFF0)]()
+<br>
+[![Maya](https://img.shields.io/badge/Autodesk_Maya-A1D9E1?style=for-the-badge&logo=autodesk&logoColor=white&labelColor=12BBD3)]()
+<br>
+
+
 
 ## And here there are some of the games that I usually play to in my spare time:
 
