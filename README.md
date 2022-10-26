@@ -10,7 +10,7 @@ I'm a VFX and 3D modeler
 
 [![Twitch Status](https://img.shields.io/twitch/status/pol018_cat?style=social)](https://twitch.com/pol018_cat)
 [![Twitter Follow](https://img.shields.io/twitter/follow/MayBStudios?style=social)](https://twitter.com/MayBStudios)
-[![Instagram Status](https://img.shields.io/instagram/status/pol018_?style=social)](https://instagram.com/pol018_)
+[![Youtube Status](https://img.shields.io/youtube/channel/subscribers/AlitaArmy99?style=social)](https://www.youtube.com/channel/UCUzHH9Hfr22IaMGgkmfpLsQ)
 
 
 ## Here are some of softwares that I learn:
