@@ -5,11 +5,12 @@ I'm a VFX and 3D modeler
 <hr>
 <a href="https://www.artstation.com/pol_perez">
   		<img src="https://cdnb.artstation.com/p/assets/images/images/050/431/177/large/pol-perez-1a-polperez-final-002.jpg?1654819360" width="500">
-
+</a>
 
 
 [![Twitch Status](https://img.shields.io/twitch/status/pol018_cat?style=social)](https://twitch.com/pol018_cat)
 [![Twitter Follow](https://img.shields.io/twitter/follow/MayBStudios?style=social)](https://twitter.com/MayBStudios)
+[![Instagram Status](https://img.shields.io/instagram/status/pol018_?style=social)](https://instagram.com/pol018_)
 
 
 ## Here are some of softwares that I learn:
